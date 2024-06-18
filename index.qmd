@@ -8,7 +8,7 @@ about:
   image-width: 20em
   links:
     - text: LinkedIn
-      href: https://https://www.linkedin.com/in/alyssa-counsell-7970a954/   
+      href: https://linkedin.com/in/alyssa-counsell-7970a954/     
     - text: GitHub
       href: https://github.com/acounsell
     - text: Email
