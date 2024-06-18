@@ -1,5 +1,5 @@
 ---
-title: "Alyssa Counsell website"
+title: "Alyssa Counsell"
 ---
 
 This is a Quarto website.
