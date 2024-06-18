@@ -1,11 +1,24 @@
 ---
 title: "Alyssa Counsell"
+image: media/photo3.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://https://www.linkedin.com/in/alyssa-counsell-7970a954/   
+    - text: GitHub
+      href: https://github.com/acounsell
+    - text: Email
+      href: mailto:a.counsell@torontomu.ca 
 ---
 
-This is a Quarto website.
+# About
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am an Associate Professor in the [Department of Psychology](https://www.torontomu.ca/psychology/) at Toronto Metropolitan University (formerly Ryerson University).
 
-```{r}
-1 + 1
-```
+I lead the Psychology and Statistics Education Research [(PASER) Lab](psystat.org).
+
+My lab examines research topics related to statistics education, statistics anxiety, statistics attitudes, and statistical software.
