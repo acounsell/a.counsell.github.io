@@ -7,11 +7,13 @@ about:
   image-shape: round
   image-width: 20em
   links:
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:a.counsell@torontomu.ca 
     - text: Google Scholar
       href: https://scholar.google.com/citations?hl=en&user=dCAWcooAAAAJ 
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://linkedin.com/in/alyssa-counsell-7970a954/
 ---
 

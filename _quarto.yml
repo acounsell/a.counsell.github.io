@@ -5,12 +5,17 @@ project:
 website:
   title: "Alyssa Counsell"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
       - href: consulting.qmd
         text: Stats Consulting
+
+  page-footer: 
+    background: light
+    left: Copyright 2024, Alyssa Counsell
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/acounsell/a.counsell.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
