@@ -1,24 +1,56 @@
 ---
 title: "Alyssa Counsell"
-image: media/photo3.jpg
+image: media/photo3new.jpg
 toc: false
 about: 
   template: trestles
   image-shape: round
   image-width: 20em
   links:
-    - text: LinkedIn
-      href: https://linkedin.com/in/alyssa-counsell-7970a954/     
-    - text: GitHub
-      href: https://github.com/acounsell
     - text: Email
       href: mailto:a.counsell@torontomu.ca 
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=dCAWcooAAAAJ 
+    - text: LinkedIn
+      href: https://linkedin.com/in/alyssa-counsell-7970a954/
 ---
 
-# About
+# Hi there!
 
-I am an Associate Professor in the [Department of Psychology](https://www.torontomu.ca/psychology/) at Toronto Metropolitan University (formerly Ryerson University).
+Welcome to my website! My name is Alyssa Counsell and I am faculty member in the [Department of Psychology](https://www.torontomu.ca/psychology/) at Toronto Metropolitan University (formerly Ryerson University).
 
-I lead the Psychology and Statistics Education Research [(PASER) Lab](psystat.org).
+I lead the Psychology and Statistics Education Research [(PASER) Lab](https://www.psystat.org).
 
-My lab examines research topics related to statistics education, statistics anxiety, statistics attitudes, and statistical software.
+My program of research focuses on statistics education, statistics anxiety, statistics attitudes, and statistical software.
+
+---
+
+# Current Positions
+
+**Associate Professor**
+
+Psychology - Toronto Metropolitan University
+
+**Teaching Fellow**
+
+Centre for Excellence in Learning and Teaching (CELT) - Toronto Metropolitan University
+
+**Chair - Teaching of Psychology Section**
+
+Canadian Psychological Association
+
+**Treasurer - Quantitative Methods Section**
+
+Canadian Psychological Association
+
+**Associate Editor**
+
+Statistics Education Research Journal (SERJ)
+
+**Special Interest Group Lead - Statistical Software**
+
+Researchers of Statistics Education (RoSE) Network
+
+**Chief Statistical Consultant**
+
+Stats Verify

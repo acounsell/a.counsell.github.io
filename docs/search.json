@@ -4,13 +4,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Alyssa Counsell received her PhD from York University in 2017 with a focus in quantitative psychology. The following year she joined the Department of Psychology at Toronto Metropolitan University (formerly Ryerson) as an Assistant Professor leading the Psychology and Statistics Education Research (PASER) Lab.\nDr. Counsell is primarily interested in the scholarship of learning and teaching, especially as it pertains to statistics education. She studies topics such as statistics anxiety, attitudes toward statistics and statistical software, and statistics literacy. She also works to identify statistical challenges for applied researchers and explore ways to better emphasize research transparency and credibility. Her research intersects with her passion for teaching statistics, where she has been recognized with several teaching awards for her innovative and inclusive pedagogical approaches.\nDr. Counsell has received over $250,000 of funding from the Social Sciences and Humanities Research Council of Canada (SSHRC) as a Principal Investigator as well as over $1.7 million of funding from the Canadian Institute of Health Research (CIHR) as a collaborator or co-investigator.\nTo see an up-to-date list of research projects, presentations, and publications, click here for Dr. Counsell’s CV."
+  },
+  {
+    "objectID": "consulting.html",
+    "href": "consulting.html",
+    "title": "Statistical Consulting",
+    "section": "",
+    "text": "I run a statistical consulting company called Stats Verify.\nExamples of topics for statistical consulting include:\n\nresearch design\ndata cleaning\ndescriptive statistics\nunivariate statistical methods (e.g., t-test, ANOVA)\nmultivariate methods (e.g., SEM, HLM, factor analysis)\nexplanatory or predictive modeling\nlongitudinal or time series data\npower analysis\nstatistical software\n\nIf you’d like to learn more about statistical consulting services, send me an email at a.counsell@torontomu.ca"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Alyssa Counsell",
     "section": "",
-    "text": "About\nI am an Associate Professor in the Department of Psychology at Toronto Metropolitan University (formerly Ryerson University).\nI lead the Psychology and Statistics Education Research (PASER) Lab.\nMy lab examines research topics related to statistics education, statistics anxiety, statistics attitudes, and statistical software."
+    "text": "Hi there!\nWelcome to my website! My name is Alyssa Counsell and I am faculty member in the Department of Psychology at Toronto Metropolitan University (formerly Ryerson University).\nI lead the Psychology and Statistics Education Research (PASER) Lab.\nMy program of research focuses on statistics education, statistics anxiety, statistics attitudes, and statistical software.\n\n\n\nCurrent Positions\nAssociate Professor\nPsychology - Toronto Metropolitan University\nTeaching Fellow\nCentre for Excellence in Learning and Teaching (CELT) - Toronto Metropolitan University\nChair - Teaching of Psychology Section\nCanadian Psychological Association\nTreasurer - Quantitative Methods Section\nCanadian Psychological Association\nAssociate Editor\nStatistics Education Research Journal (SERJ)\nSpecial Interest Group Lead - Statistical Software\nResearchers of Statistics Education (RoSE) Network\nChief Statistical Consultant\nStats Verify"
   }
 ]

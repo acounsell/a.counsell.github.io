@@ -2,8 +2,12 @@
 title: "About"
 ---
 
-About this site
+Alyssa Counsell received her PhD from York University in 2017 with a focus in quantitative psychology. The following year she joined the Department of Psychology at Toronto Metropolitan University (formerly Ryerson) as an Assistant Professor leading the Psychology and Statistics Education Research (PASER) Lab.
 
-```{r}
-1 + 1
-```
+Dr. Counsell is primarily interested in the scholarship of learning and teaching, especially as it pertains to statistics education. She studies topics such as statistics anxiety, attitudes toward statistics and statistical software, and statistics literacy. She also works to identify statistical challenges for applied researchers and explore ways to better emphasize research transparency and credibility. Her research intersects with her passion for teaching statistics, where she has been recognized with several teaching awards for her innovative and inclusive pedagogical approaches.
+
+Dr. Counsell has received over \$250,000 of funding from the Social Sciences and Humanities Research Council of Canada (SSHRC) as a Principal Investigator as well as over \$1.7 million of funding from the Canadian Institute of Health Research (CIHR) as a collaborator or co-investigator.
+
+To see an up-to-date list of research projects, presentations, and publications, [click here for Dr. Counsell's CV](https://docs.google.com/document/d/1aOjG_jSnnA_pJIvLS7GGMFMr8hNH4dAzAh0cKrzic8M/edit).
+
+![](media/academia.jpg){fig-alt="abstract image of books and shapes representing academia in blue, orange, and red." fig-align="center"}

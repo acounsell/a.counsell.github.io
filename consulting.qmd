@@ -1,0 +1,32 @@
+---
+title: "Statistical Consulting"
+about: 
+    template: solana
+    image: media/stats_verify.png
+    image-shape: rectangle
+    image-width: 20em
+---
+
+I run a statistical consulting company called Stats Verify.
+
+Examples of topics for statistical consulting include:
+
+-   research design
+
+-   data cleaning
+
+-   descriptive statistics
+
+-   univariate statistical methods (e.g., t-test, ANOVA)
+
+-   multivariate methods (e.g., SEM, HLM, factor analysis)
+
+-   explanatory or predictive modeling
+
+-   longitudinal or time series data
+
+-   power analysis
+
+-   statistical software
+
+If you'd like to learn more about statistical consulting services, send me an email at **a.counsell\@torontomu.ca**
